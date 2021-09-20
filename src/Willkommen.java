@@ -6,7 +6,7 @@ public class Willkommen {
 
     private static String prefix = "Regierung: ";
 
-    //Hier ist ein Beispiel, um diesen prefix, bzw String von anderen Klassen aufrufen zu können. Dieser muss natürlich Public sein. siehe Hallo
+    //Hier ist ein Beispiel, um diesen prefix bzw. String von anderen Klassen aufrufen zu können. Dieser muss natürlich Public sein. siehe Hallo
     public static String hallo = "Hallo, Java";
 
     public static void main(String[] args) {
